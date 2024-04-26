@@ -68,3 +68,11 @@ The trademarks, logos, and service marks displayed on Joony Software are registe
 # Responsibility
 
 While Joony Software utilizes a popular tool commonly employed by spoofer providers, which typically carries minimal risk of bricking or permanently disabling your PC, we must emphasize that in the event our software causes any issues with your PC, we cannot be held responsible. Additionally, as our spoofer is provided as a free tool to all users, we are not responsible for any harm that may result from its use.
+
+# Support & Correct Usages of Ticket System within Discord
+If you require assistance from our support members, please adhere to the following guidelines:
+- If you lack knowledge of using our software, we may not be able to assist you. It is recommended to familiarize yourself with our software's documentation and guidelines before seeking support.
+- Respectful conduct towards our staff is mandatory. Any disrespectful behavior may result in the banning of your license, and you will be prohibited from using our software.
+- Our support members reserve the right to revoke or deny your access to assistance within our Discord server at their discretion, for any reason deemed necessary.
+- When submitting a support ticket, maintain professionalism and be concise in explaining your issue to expedite resolution. Avoid unnecessary details that may prolong the troubleshooting process.
+
